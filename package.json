@@ -2,9 +2,14 @@
   "name": "n2n-port",
   "version": "1.0.0",
   "description": "N2N port for Peer 2 Peer networks",
+  "repository": "github:makamekm/n2n-port",
   "main": "index.js",
   "scripts": {
+    "n2n-port": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "n2n-port": "./index.js"
   },
   "keywords": [
     "n2n"
