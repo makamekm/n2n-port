@@ -1,6 +1,6 @@
 {
   "name": "n2n-port",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "N2N port for Peer 2 Peer networks",
   "repository": "github:makamekm/n2n-port",
   "main": "index.js",
