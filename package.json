@@ -1,0 +1,14 @@
+{
+  "name": "n2n-port",
+  "version": "1.0.0",
+  "description": "N2N port for Peer 2 Peer networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "n2n"
+  ],
+  "author": "makamekm",
+  "license": "ISC"
+}
